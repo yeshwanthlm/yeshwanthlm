@@ -14,8 +14,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
