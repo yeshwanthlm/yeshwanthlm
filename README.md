@@ -1,5 +1,6 @@
-<h1 align="left">Hi 👋, I'm Yeshwanth</h1>
-<h4 align="leftr">I am a Cloud and DevOps Engineer ☁️, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps.</h4>
+### Hi 👋, I'm Yeshwanth
+**`Engineer/Creator)`**
+I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️, and YouTuber 📺. Passionate about helping people get into Cloud and sharing my learnings in Cloud, DevOps.
 
    <p align="left">
       <a href="https://www.youtube.com/c/amonkincloud?sub_confirmation=1">
@@ -34,22 +35,16 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/amonkincloud?sub_confirmation=1)
 
-<h3 align="left">Languages and Tools ⚙️</h3>
+### 🧰 Languages and Tools
+
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### 📊 Stats
-
-![Yeshwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshwanthlm&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yeshwanthlm&theme=gruvbox&border_radius=4.5) -->
-
-#
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshwanthlm&show_icons=true&locale=en&layout=compact" alt="yeshwanthlm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwanthlm&show_icons=true&locale=en" alt="yeshwanthlm" /></p>
 
-<h3 align="left">Connect with me:</h3>
+### 🏄‍♂️ Connect with me
    <p align="left">
    <a href="https://dev.to/yeshwanthlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yeshwanthlm" height="30" width="40" /></a>
    <a href="https://linkedin.com/in/yeshwanth-l-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeshwanth-l-m" height="30" width="40" /></a>
