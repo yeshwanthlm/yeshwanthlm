@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Yeshwanth</h1>
-<h3 align="left">I am a Cloud and DevOps Engineer ☁️, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps.</h3>
+<h1 align="center">Hi 👋, I'm Yeshwanth</h1>
+<h3 align="center">I am a Cloud and DevOps Engineer ☁️, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshwanthlm&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwanthlm" /> </p>
 
@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/yeshwanthlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yeshwanthlm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yeshwanth-l-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeshwanth-l-m" height="30" width="40" /></a>
-<a href="https://fb.com/yashvanth.patel.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashvanth.patel.3" height="30" width="40" /></a>
-<a href="https://instagram.com/yeshwanthlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeshwanthlm" height="30" width="40" /></a>
-<a href="https://hashnode.com/@amonkincloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amonkincloud" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amonkincloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amonkincloud" height="30" width="40" /></a>
+<a href="https://dev.to/yeshwanthlm" target="blank"><img align="center" src="https://dev.to/" alt="yeshwanthlm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yeshwanth-l-m" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="yeshwanth-l-m" height="30" width="40" /></a>
+<a href="https://fb.com/yashvanth.patel.3" target="blank"><img align="center" src="https://icons8.com/icon/13912/facebook" alt="yashvanth.patel.3" height="30" width="40" /></a>
+<a href="https://instagram.com/yeshwanthlm" target="blank"><img align="center" src="https://icons8.com/icon/32323/instagram-new" alt="yeshwanthlm" height="30" width="40" /></a>
+<a href="https://hashnode.com/@amonkincloud" target="blank"><img align="center" src="https://icons8.com/icon/HnB8zGOh5xgd/hashnode" alt="@amonkincloud" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/amonkincloud" target="blank"><img align="center" src="https://icons8.com/icon/19318/youtube-play" alt="amonkincloud" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
