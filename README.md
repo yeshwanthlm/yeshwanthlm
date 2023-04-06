@@ -14,25 +14,12 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshwanthlm&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwanthlm" /> </p>
-
 - 🌱 I’m currently learning **Kubernetes and Go**
 - 👨‍💻 All of my projects are available at [https://github.com/yeshwanthlm](https://github.com/yeshwanthlm)
 - 📝 I regularly write articles on [https://amonkincloud.com/](https://amonkincloud.com/)
 - 💬 Ask me about **Cloud and DevOps ☁️**
-- 📫 How to reach me **amonkincloud@gmail.com**
+- 📫 Reach out to me at **amonkincloud@gmail.com**
 
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Unboxing Keychron K2 Version 2 Keyboard ⌨️ #Shorts](https://ytcards.demolab.com/?id=kRe4FhcoqR0&title=Unboxing+Keychron+K2+Version+2+Keyboard+%E2%8C%A8%EF%B8%8F+%23Shorts&lang=en&timestamp=1680791956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Unboxing Keychron K2 Version 2 Keyboard ⌨️ #Shorts")](https://www.youtube.com/watch?v=kRe4FhcoqR0)
-[![Get notified when your On-Demand Capacity Reservations are utilised less than 20% of EC2 Instances 📢](https://ytcards.demolab.com/?id=hCKA-2zl5Vw&title=Get+notified+when+your%C2%A0On-Demand+Capacity+Reservations%C2%A0are+utilised+less+than+20%25+of+EC2+Instances+%F0%9F%93%A2&lang=en&timestamp=1680784218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Get notified when your On-Demand Capacity Reservations are utilised less than 20% of EC2 Instances 📢")](https://www.youtube.com/watch?v=hCKA-2zl5Vw)
-[![Monitor Disk & Memory Utilisation of AWS EC2 Using CloudWatch Agent | AWS Demo #LearnAWS #community](https://ytcards.demolab.com/?id=OphBekkv7Fo&title=Monitor+Disk+%26+Memory+Utilisation+of+AWS+EC2+Using+CloudWatch+Agent+%7C+AWS+Demo+%23LearnAWS+%23community&lang=en&timestamp=1680722486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Monitor Disk & Memory Utilisation of AWS EC2 Using CloudWatch Agent | AWS Demo #LearnAWS #community")](https://www.youtube.com/watch?v=OphBekkv7Fo)
-[![Benefits of Serverless Computing | #aws #cloud #amc #AWSServerless](https://ytcards.demolab.com/?id=mwxAEJtbBHg&title=Benefits+of+Serverless+Computing+%7C+%23aws+%23cloud+%23amc+%23AWSServerless&lang=en&timestamp=1680665421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Benefits of Serverless Computing | #aws #cloud #amc #AWSServerless")](https://www.youtube.com/watch?v=mwxAEJtbBHg)
-[![Give Away Announcement 📢 | 2 X 100 $ AWS Credits Give Away 💸 #AWS #learnawsforfree #GetAWSCertified](https://ytcards.demolab.com/?id=I6lOS38pdeM&title=Give+Away+Announcement+%F0%9F%93%A2+%7C+2+X+100+%24+AWS+Credits+Give+Away+%F0%9F%92%B8+%23AWS+%23learnawsforfree+%23GetAWSCertified&lang=en&timestamp=1680665408&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Give Away Announcement 📢 | 2 X 100 $ AWS Credits Give Away 💸 #AWS #learnawsforfree #GetAWSCertified")](https://www.youtube.com/watch?v=I6lOS38pdeM)
-[![AWS Projects: Serverless Web Application on AWS | Complete Hands-on Project on AWS | AWS Demo](https://ytcards.demolab.com/?id=qpaDbXcPwnU&title=AWS+Projects%3A+Serverless+Web+Application+on+AWS+%7C+Complete+Hands-on+Project+on+AWS+%7C+AWS+Demo&lang=en&timestamp=1680611411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "AWS Projects: Serverless Web Application on AWS | Complete Hands-on Project on AWS | AWS Demo")](https://www.youtube.com/watch?v=qpaDbXcPwnU)
-<!-- END YOUTUBE-CARDS -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,3 +37,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshwanthlm&show_icons=true&locale=en&layout=compact" alt="yeshwanthlm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwanthlm&show_icons=true&locale=en" alt="yeshwanthlm" /></p>
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Unboxing Keychron K2 Version 2 Keyboard ⌨️ #Shorts](https://ytcards.demolab.com/?id=kRe4FhcoqR0&title=Unboxing+Keychron+K2+Version+2+Keyboard+%E2%8C%A8%EF%B8%8F+%23Shorts&lang=en&timestamp=1680791956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Unboxing Keychron K2 Version 2 Keyboard ⌨️ #Shorts")](https://www.youtube.com/watch?v=kRe4FhcoqR0)
+[![Get notified when your On-Demand Capacity Reservations are utilised less than 20% of EC2 Instances 📢](https://ytcards.demolab.com/?id=hCKA-2zl5Vw&title=Get+notified+when+your%C2%A0On-Demand+Capacity+Reservations%C2%A0are+utilised+less+than+20%25+of+EC2+Instances+%F0%9F%93%A2&lang=en&timestamp=1680784218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Get notified when your On-Demand Capacity Reservations are utilised less than 20% of EC2 Instances 📢")](https://www.youtube.com/watch?v=hCKA-2zl5Vw)
+[![Monitor Disk & Memory Utilisation of AWS EC2 Using CloudWatch Agent | AWS Demo #LearnAWS #community](https://ytcards.demolab.com/?id=OphBekkv7Fo&title=Monitor+Disk+%26+Memory+Utilisation+of+AWS+EC2+Using+CloudWatch+Agent+%7C+AWS+Demo+%23LearnAWS+%23community&lang=en&timestamp=1680722486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Monitor Disk & Memory Utilisation of AWS EC2 Using CloudWatch Agent | AWS Demo #LearnAWS #community")](https://www.youtube.com/watch?v=OphBekkv7Fo)
+[![Benefits of Serverless Computing | #aws #cloud #amc #AWSServerless](https://ytcards.demolab.com/?id=mwxAEJtbBHg&title=Benefits+of+Serverless+Computing+%7C+%23aws+%23cloud+%23amc+%23AWSServerless&lang=en&timestamp=1680665421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Benefits of Serverless Computing | #aws #cloud #amc #AWSServerless")](https://www.youtube.com/watch?v=mwxAEJtbBHg)
+[![Give Away Announcement 📢 | 2 X 100 $ AWS Credits Give Away 💸 #AWS #learnawsforfree #GetAWSCertified](https://ytcards.demolab.com/?id=I6lOS38pdeM&title=Give+Away+Announcement+%F0%9F%93%A2+%7C+2+X+100+%24+AWS+Credits+Give+Away+%F0%9F%92%B8+%23AWS+%23learnawsforfree+%23GetAWSCertified&lang=en&timestamp=1680665408&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Give Away Announcement 📢 | 2 X 100 $ AWS Credits Give Away 💸 #AWS #learnawsforfree #GetAWSCertified")](https://www.youtube.com/watch?v=I6lOS38pdeM)
+[![AWS Projects: Serverless Web Application on AWS | Complete Hands-on Project on AWS | AWS Demo](https://ytcards.demolab.com/?id=qpaDbXcPwnU&title=AWS+Projects%3A+Serverless+Web+Application+on+AWS+%7C+Complete+Hands-on+Project+on+AWS+%7C+AWS+Demo&lang=en&timestamp=1680611411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "AWS Projects: Serverless Web Application on AWS | Complete Hands-on Project on AWS | AWS Demo")](https://www.youtube.com/watch?v=qpaDbXcPwnU)
+<!-- END YOUTUBE-CARDS -->
