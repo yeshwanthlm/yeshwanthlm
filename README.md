@@ -21,17 +21,6 @@
 - 📫 Reach out to me at **amonkincloud@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-   <p align="left">
-   <a href="https://dev.to/yeshwanthlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yeshwanthlm" height="30" width="40" /></a>
-   <a href="https://linkedin.com/in/yeshwanth-l-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeshwanth-l-m" height="30" width="40" /></a>
-   <a href="https://fb.com/yashvanth.patel.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashvanth.patel.3" height="30" width="40" /></a>
-   <a href="https://instagram.com/yeshwanthlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeshwanthlm" height="30" width="40" /></a>
-   <a href="https://hashnode.com/@amonkincloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amonkincloud" height="30" width="40" /></a>
-   <a href="https://www.youtube.com/c/amonkincloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amonkincloud" height="30" width="40" /></a>
-   </p>
----
-
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -51,3 +40,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshwanthlm&show_icons=true&locale=en&layout=compact" alt="yeshwanthlm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwanthlm&show_icons=true&locale=en" alt="yeshwanthlm" /></p>
+
+<h3 align="left">Connect with me:</h3>
+   <p align="left">
+   <a href="https://dev.to/yeshwanthlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yeshwanthlm" height="30" width="40" /></a>
+   <a href="https://linkedin.com/in/yeshwanth-l-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeshwanth-l-m" height="30" width="40" /></a>
+   <a href="https://fb.com/yashvanth.patel.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashvanth.patel.3" height="30" width="40" /></a>
+   <a href="https://instagram.com/yeshwanthlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeshwanthlm" height="30" width="40" /></a>
+   <a href="https://hashnode.com/@amonkincloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amonkincloud" height="30" width="40" /></a>
+   <a href="https://www.youtube.com/c/amonkincloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amonkincloud" height="30" width="40" /></a>
+   </p>
