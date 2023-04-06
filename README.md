@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yeshwanth</h1>
-<h3 align="center">☁️ | Cloud and DevOps. 🇮🇳 | IEEE Volunteer. 🏗️ | AWS Community Builder. 📍 | Karnataka, India. Passionate about helping people get into Cloud ☁️ and sharing my learnings in Cloud and DevOps.</h3>
+<h1 align="left">Hi 👋, I'm Yeshwanth</h1>
+<h3 align="left">I am a Cloud and DevOps Engineer ☁️, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshwanthlm&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwanthlm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeshwanthlm" alt="yeshwanthlm" /></a> </p>
-
-- 🌱 I’m currently learning **Kubernetes**
-
+- 🌱 I’m currently learning **Kubernetes and Go**
 - 👨‍💻 All of my projects are available at [https://github.com/yeshwanthlm](https://github.com/yeshwanthlm)
-
 - 📝 I regularly write articles on [https://amonkincloud.com/](https://amonkincloud.com/)
-
 - 💬 Ask me about **Cloud and DevOps ☁️**
-
 - 📫 How to reach me **amonkincloud@gmail.com**
 
 ### Blogs posts
