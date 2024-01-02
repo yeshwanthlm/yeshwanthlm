@@ -17,7 +17,7 @@ I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️, and YouT
 
 ---
 
-- 🌱 I’m currently learning **Kubernetes and Go**
+- 🌱 I’m currently learning **Kubernetes**
 - 👨‍💻 All of my projects are available at [https://github.com/yeshwanthlm](https://github.com/yeshwanthlm)
 - 📝 I regularly write articles on [https://amonkincloud.com/](https://amonkincloud.com/)
 - 💬 Ask me about **Cloud and DevOps ☁️**
