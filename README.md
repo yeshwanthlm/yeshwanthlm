@@ -2,7 +2,7 @@
 
 **`Engineer/Creator`**
 
-I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️, and YouTuber 📺. Passionate about helping people get into Cloud and sharing my learnings in Cloud, DevOps.
+I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️, and YouTuber 📺. Passionate about helping people get into Cloud and sharing my learnings in Cloud and DevOps.
 
    <p align="left">
       <a href="https://www.youtube.com/c/amonkincloud?sub_confirmation=1">
