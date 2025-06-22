@@ -5,9 +5,9 @@
 I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️, and YouTuber 📺. Passionate about helping people get into Cloud and sharing my learnings in Cloud and DevOps.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/amonkincloud?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/TechWithYeshwanth?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwhERUcuzUCwr8x8mQ8zrcw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/amonkincloud">
+      <a href="https://www.youtube.com/c/TechWithYeshwanth">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCwhERUcuzUCwr8x8mQ8zrcw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/yeshwanthlm?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yeshwanthlm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -19,9 +19,9 @@ I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️, and YouT
 
 - 🌱 I’m currently learning **Kubernetes**
 - 👨‍💻 All of my projects are available at [https://github.com/yeshwanthlm](https://github.com/yeshwanthlm)
-- 📝 I regularly write articles on [https://amonkincloud.com/](https://amonkincloud.com/)
+- 📝 I regularly write articles on [https://blogs.yeshwanthlm.in/]([https://amonkincloud.com/](https://blogs.yeshwanthlm.in/))
 - 💬 Ask me about **Cloud and DevOps ☁️**
-- 📫 Reach out to me at **amonkincloud@gmail.com**
+- 📫 Reach out to me at **techwithyeshwanth@gmail.com**
 
 
 ### 📺 Latest YouTube Videos
